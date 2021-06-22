@@ -20,7 +20,8 @@
 
 ## 💻 Sobre o projeto
 
-Nesta edição do Next Level Week, iremos desenvolver uma aplicação para que o usuário possa fazer perguntas a outros usuários e assim receber uma resposta da comunidade, chamada Letmeask
+Nesta edição do Next Level Week, iremos desenvolver uma aplicação para que o usuário possa fazer perguntas a outros usuários e assim receber uma resposta da comunidade, chamada Letmeask.
+Onde irá ser desenvolvida uma aplicação feita em ReactJS
 
 ## 🧪 Ferramentas
 
