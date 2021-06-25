@@ -17,5 +17,5 @@ const firebaseConfig = {
 firebase.initializeApp(firebaseConfig);
 
 // Definindo costante para a auteticação e database
-export const auth = firebase.auth();
+export const auth = firebase.auth(); 
 export const database = firebase.database();
