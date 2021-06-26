@@ -16,7 +16,7 @@ const firebaseConfig = {
 // Inicilizando o App
 firebase.initializeApp(firebaseConfig);
 
-// Definindo costante para a auteticação e database
+// Definindo costante para a autenticação e database
 const auth = firebase.auth(); 
 const database = firebase.database();
 
