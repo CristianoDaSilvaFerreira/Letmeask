@@ -43,7 +43,7 @@ export function Home() {
       return;
     }
 
-    history.push(`/rooms/${{roomConde}}`);
+    history.push(`/rooms/${roomConde}`);
   }
 
   return (
